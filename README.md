@@ -7,3 +7,5 @@ If the number you entered is not same as the number which the computer chooses, 
 If the number you entered is same as the number which the computer chooses, then you will be out(If you are batting) or you then took the computer’s wicket(if you are bowling).
 The total score will be the sum of all numbers you entered until you are out(If you are batting) or until you take the wicket(If you are bowling).
 If you have more total score than the computer you win , else the computer wins.
+
+SOON I WILL ADD UI AND CUSTOM WICKETS 
